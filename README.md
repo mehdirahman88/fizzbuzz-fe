@@ -1,3 +1,11 @@
+# About
+This is simple single page application that will simulate fizzbuzz.
+
+Backend repo: https://github.com/mehdirahman88/fizzbuzz-be.git
+
+# Install packages
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
